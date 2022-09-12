@@ -1,4 +1,4 @@
-FROM  openjdk:17-jdk-alpine3.16
+FROM  openjdk:17-jdk-alpine3.14
 LABEL maintainer="chris@kairostechnologies.us"
 # OpenRefine 3.6.1
 
